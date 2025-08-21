@@ -91,12 +91,5 @@ Com esse esquema, é possível responder perguntas como:
 
 ##  Conclusão
 
-O modelo lógico desenvolvido reflete as principais necessidades de um sistema de e-commerce e pode ser usado como base para:
-
-Treinamento e ensino de SQL.
-
-Protótipos de sistemas de e-commerce.
-
-Projetos acadêmicos de modelagem de banco de dados.
-
+O modelo lógico desenvolvido reflete as principais necessidades de um sistema de e-commerce.
 Ele foi pensado para garantir integridade, escalabilidade e clareza, servindo como um ponto de partida sólido para futuras expansões.
